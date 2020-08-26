@@ -1,0 +1,7 @@
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_23AGO\Exercícios_23AGO\Exerc06_ÁreaCírculo\bin\Debug\Exerc06_ÁreaCírculo.exe.config
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_23AGO\Exercícios_23AGO\Exerc06_ÁreaCírculo\bin\Debug\Exerc06_ÁreaCírculo.exe
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_23AGO\Exercícios_23AGO\Exerc06_ÁreaCírculo\bin\Debug\Exerc06_ÁreaCírculo.pdb
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_23AGO\Exercícios_23AGO\Exerc06_ÁreaCírculo\obj\Debug\Exerc06_ÁreaCírculo.csprojAssemblyReference.cache
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_23AGO\Exercícios_23AGO\Exerc06_ÁreaCírculo\obj\Debug\Exerc06_ÁreaCírculo.csproj.CoreCompileInputs.cache
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_23AGO\Exercícios_23AGO\Exerc06_ÁreaCírculo\obj\Debug\Exerc06_ÁreaCírculo.exe
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_23AGO\Exercícios_23AGO\Exerc06_ÁreaCírculo\obj\Debug\Exerc06_ÁreaCírculo.pdb

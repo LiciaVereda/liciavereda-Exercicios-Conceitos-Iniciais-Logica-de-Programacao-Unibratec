@@ -1,0 +1,7 @@
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\15AGO\Exercícios_15AGO\Exercício01_TotalAlunos\bin\Debug\Exercício01_TotalAlunos.exe.config
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\15AGO\Exercícios_15AGO\Exercício01_TotalAlunos\bin\Debug\Exercício01_TotalAlunos.exe
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\15AGO\Exercícios_15AGO\Exercício01_TotalAlunos\bin\Debug\Exercício01_TotalAlunos.pdb
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\15AGO\Exercícios_15AGO\Exercício01_TotalAlunos\obj\Debug\Exercício01_TotalAlunos.csprojAssemblyReference.cache
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\15AGO\Exercícios_15AGO\Exercício01_TotalAlunos\obj\Debug\Exercício01_TotalAlunos.csproj.CoreCompileInputs.cache
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\15AGO\Exercícios_15AGO\Exercício01_TotalAlunos\obj\Debug\Exercício01_TotalAlunos.exe
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\15AGO\Exercícios_15AGO\Exercício01_TotalAlunos\obj\Debug\Exercício01_TotalAlunos.pdb

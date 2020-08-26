@@ -1,0 +1,7 @@
+C:\Users\Lí\source\repos\Exercícios_29AGO\Exerc25_Combustível\bin\Debug\Exerc25_Combustível.exe.config
+C:\Users\Lí\source\repos\Exercícios_29AGO\Exerc25_Combustível\bin\Debug\Exerc25_Combustível.exe
+C:\Users\Lí\source\repos\Exercícios_29AGO\Exerc25_Combustível\bin\Debug\Exerc25_Combustível.pdb
+C:\Users\Lí\source\repos\Exercícios_29AGO\Exerc25_Combustível\obj\Debug\Exerc25_Combustível.csprojAssemblyReference.cache
+C:\Users\Lí\source\repos\Exercícios_29AGO\Exerc25_Combustível\obj\Debug\Exerc25_Combustível.csproj.CoreCompileInputs.cache
+C:\Users\Lí\source\repos\Exercícios_29AGO\Exerc25_Combustível\obj\Debug\Exerc25_Combustível.exe
+C:\Users\Lí\source\repos\Exercícios_29AGO\Exerc25_Combustível\obj\Debug\Exerc25_Combustível.pdb

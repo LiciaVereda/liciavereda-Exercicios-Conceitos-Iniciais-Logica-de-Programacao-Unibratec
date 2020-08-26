@@ -1,0 +1,7 @@
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_23AGO\Exercícios_23AGO\Exerc05_AreaTrapézio\bin\Debug\Exerc05_AreaTrapézio.exe.config
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_23AGO\Exercícios_23AGO\Exerc05_AreaTrapézio\bin\Debug\Exerc05_AreaTrapézio.exe
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_23AGO\Exercícios_23AGO\Exerc05_AreaTrapézio\bin\Debug\Exerc05_AreaTrapézio.pdb
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_23AGO\Exercícios_23AGO\Exerc05_AreaTrapézio\obj\Debug\Exerc05_AreaTrapézio.csprojAssemblyReference.cache
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_23AGO\Exercícios_23AGO\Exerc05_AreaTrapézio\obj\Debug\Exerc05_AreaTrapézio.csproj.CoreCompileInputs.cache
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_23AGO\Exercícios_23AGO\Exerc05_AreaTrapézio\obj\Debug\Exerc05_AreaTrapézio.exe
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_23AGO\Exercícios_23AGO\Exerc05_AreaTrapézio\obj\Debug\Exerc05_AreaTrapézio.pdb

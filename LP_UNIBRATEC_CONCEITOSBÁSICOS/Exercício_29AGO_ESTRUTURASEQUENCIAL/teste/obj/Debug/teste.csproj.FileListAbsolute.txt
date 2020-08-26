@@ -1,0 +1,14 @@
+C:\Users\Lí\source\repos\Exercícios_29AGO\teste\bin\Debug\teste.exe.config
+C:\Users\Lí\source\repos\Exercícios_29AGO\teste\bin\Debug\teste.exe
+C:\Users\Lí\source\repos\Exercícios_29AGO\teste\bin\Debug\teste.pdb
+C:\Users\Lí\source\repos\Exercícios_29AGO\teste\obj\Debug\teste.csprojAssemblyReference.cache
+C:\Users\Lí\source\repos\Exercícios_29AGO\teste\obj\Debug\teste.csproj.CoreCompileInputs.cache
+C:\Users\Lí\source\repos\Exercícios_29AGO\teste\obj\Debug\teste.exe
+C:\Users\Lí\source\repos\Exercícios_29AGO\teste\obj\Debug\teste.pdb
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_29AGO\teste\bin\Debug\teste.exe.config
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_29AGO\teste\bin\Debug\teste.exe
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_29AGO\teste\bin\Debug\teste.pdb
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_29AGO\teste\obj\Debug\teste.csprojAssemblyReference.cache
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_29AGO\teste\obj\Debug\teste.csproj.CoreCompileInputs.cache
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_29AGO\teste\obj\Debug\teste.exe
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_29AGO\teste\obj\Debug\teste.pdb

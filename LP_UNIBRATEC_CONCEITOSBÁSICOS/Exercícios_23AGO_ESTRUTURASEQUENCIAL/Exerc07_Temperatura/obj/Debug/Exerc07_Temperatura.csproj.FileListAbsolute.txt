@@ -1,0 +1,7 @@
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_23AGO\Exercícios_23AGO\Exerc07_Temperatura\obj\Debug\Exerc07_Temperatura.csproj.CoreCompileInputs.cache
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_23AGO\Exercícios_23AGO\Exerc07_Temperatura\bin\Debug\Exerc07_Temperatura.exe.config
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_23AGO\Exercícios_23AGO\Exerc07_Temperatura\bin\Debug\Exerc07_Temperatura.exe
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_23AGO\Exercícios_23AGO\Exerc07_Temperatura\bin\Debug\Exerc07_Temperatura.pdb
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_23AGO\Exercícios_23AGO\Exerc07_Temperatura\obj\Debug\Exerc07_Temperatura.exe
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_23AGO\Exercícios_23AGO\Exerc07_Temperatura\obj\Debug\Exerc07_Temperatura.pdb
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_23AGO\Exercícios_23AGO\Exerc07_Temperatura\obj\Debug\Exerc07_Temperatura.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\Lí\source\repos\Exercícios_29AGO\Exerc24_AumentoSalarial\bin\Debug\Exerc24_AumentoSalarial.exe.config
+C:\Users\Lí\source\repos\Exercícios_29AGO\Exerc24_AumentoSalarial\bin\Debug\Exerc24_AumentoSalarial.exe
+C:\Users\Lí\source\repos\Exercícios_29AGO\Exerc24_AumentoSalarial\bin\Debug\Exerc24_AumentoSalarial.pdb
+C:\Users\Lí\source\repos\Exercícios_29AGO\Exerc24_AumentoSalarial\obj\Debug\Exerc24_AumentoSalarial.csprojAssemblyReference.cache
+C:\Users\Lí\source\repos\Exercícios_29AGO\Exerc24_AumentoSalarial\obj\Debug\Exerc24_AumentoSalarial.csproj.CoreCompileInputs.cache
+C:\Users\Lí\source\repos\Exercícios_29AGO\Exerc24_AumentoSalarial\obj\Debug\Exerc24_AumentoSalarial.exe
+C:\Users\Lí\source\repos\Exercícios_29AGO\Exerc24_AumentoSalarial\obj\Debug\Exerc24_AumentoSalarial.pdb

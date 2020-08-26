@@ -1,0 +1,6 @@
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\15AGO\Exercícios_15AGO\multaBiblioteca\bin\Debug\multaBiblioteca.exe.config
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\15AGO\Exercícios_15AGO\multaBiblioteca\bin\Debug\multaBiblioteca.exe
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\15AGO\Exercícios_15AGO\multaBiblioteca\bin\Debug\multaBiblioteca.pdb
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\15AGO\Exercícios_15AGO\multaBiblioteca\obj\Debug\multaBiblioteca.csproj.CoreCompileInputs.cache
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\15AGO\Exercícios_15AGO\multaBiblioteca\obj\Debug\multaBiblioteca.exe
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\15AGO\Exercícios_15AGO\multaBiblioteca\obj\Debug\multaBiblioteca.pdb

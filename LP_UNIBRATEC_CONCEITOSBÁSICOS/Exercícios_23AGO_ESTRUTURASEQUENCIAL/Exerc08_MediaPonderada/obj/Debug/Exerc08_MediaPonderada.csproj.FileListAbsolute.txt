@@ -1,0 +1,7 @@
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_23AGO\Exercícios_23AGO\Exerc08_MediaPonderada\bin\Debug\Exerc08_MediaPonderada.exe.config
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_23AGO\Exercícios_23AGO\Exerc08_MediaPonderada\bin\Debug\Exerc08_MediaPonderada.exe
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_23AGO\Exercícios_23AGO\Exerc08_MediaPonderada\bin\Debug\Exerc08_MediaPonderada.pdb
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_23AGO\Exercícios_23AGO\Exerc08_MediaPonderada\obj\Debug\Exerc08_MediaPonderada.csprojAssemblyReference.cache
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_23AGO\Exercícios_23AGO\Exerc08_MediaPonderada\obj\Debug\Exerc08_MediaPonderada.csproj.CoreCompileInputs.cache
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_23AGO\Exercícios_23AGO\Exerc08_MediaPonderada\obj\Debug\Exerc08_MediaPonderada.exe
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_23AGO\Exercícios_23AGO\Exerc08_MediaPonderada\obj\Debug\Exerc08_MediaPonderada.pdb

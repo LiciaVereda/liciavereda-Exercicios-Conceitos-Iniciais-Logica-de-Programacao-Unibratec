@@ -1,0 +1,7 @@
+C:\Users\Lí\source\repos\Exercícios_29AGO\Exerc24_Caminhada\bin\Debug\Exerc24_Caminhada.exe.config
+C:\Users\Lí\source\repos\Exercícios_29AGO\Exerc24_Caminhada\bin\Debug\Exerc24_Caminhada.exe
+C:\Users\Lí\source\repos\Exercícios_29AGO\Exerc24_Caminhada\bin\Debug\Exerc24_Caminhada.pdb
+C:\Users\Lí\source\repos\Exercícios_29AGO\Exerc24_Caminhada\obj\Debug\Exerc24_Caminhada.csproj.CoreCompileInputs.cache
+C:\Users\Lí\source\repos\Exercícios_29AGO\Exerc24_Caminhada\obj\Debug\Exerc24_Caminhada.exe
+C:\Users\Lí\source\repos\Exercícios_29AGO\Exerc24_Caminhada\obj\Debug\Exerc24_Caminhada.pdb
+C:\Users\Lí\source\repos\Exercícios_29AGO\Exerc24_Caminhada\obj\Debug\Exerc24_Caminhada.csprojAssemblyReference.cache

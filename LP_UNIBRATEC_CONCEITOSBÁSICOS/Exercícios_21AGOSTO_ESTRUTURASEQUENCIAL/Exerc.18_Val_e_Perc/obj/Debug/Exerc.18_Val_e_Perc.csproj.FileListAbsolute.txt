@@ -1,0 +1,7 @@
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_21AGO\Exer.17_PercentualdeJuros\Exerc.18_Val_e_Perc\bin\Debug\Exerc.18_Val_e_Perc.exe.config
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_21AGO\Exer.17_PercentualdeJuros\Exerc.18_Val_e_Perc\bin\Debug\Exerc.18_Val_e_Perc.exe
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_21AGO\Exer.17_PercentualdeJuros\Exerc.18_Val_e_Perc\bin\Debug\Exerc.18_Val_e_Perc.pdb
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_21AGO\Exer.17_PercentualdeJuros\Exerc.18_Val_e_Perc\obj\Debug\Exerc.18_Val_e_Perc.csprojAssemblyReference.cache
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_21AGO\Exer.17_PercentualdeJuros\Exerc.18_Val_e_Perc\obj\Debug\Exerc.18_Val_e_Perc.csproj.CoreCompileInputs.cache
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_21AGO\Exer.17_PercentualdeJuros\Exerc.18_Val_e_Perc\obj\Debug\Exerc.18_Val_e_Perc.exe
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_21AGO\Exer.17_PercentualdeJuros\Exerc.18_Val_e_Perc\obj\Debug\Exerc.18_Val_e_Perc.pdb

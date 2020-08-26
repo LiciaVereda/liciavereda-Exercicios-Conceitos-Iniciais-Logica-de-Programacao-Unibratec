@@ -1,0 +1,6 @@
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_23AGO\Exercícios_23AGO\Exerc10_OperadorTexto\bin\Debug\Exerc10_OperadorTexto.exe.config
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_23AGO\Exercícios_23AGO\Exerc10_OperadorTexto\bin\Debug\Exerc10_OperadorTexto.exe
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_23AGO\Exercícios_23AGO\Exerc10_OperadorTexto\bin\Debug\Exerc10_OperadorTexto.pdb
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_23AGO\Exercícios_23AGO\Exerc10_OperadorTexto\obj\Debug\Exerc10_OperadorTexto.csproj.CoreCompileInputs.cache
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_23AGO\Exercícios_23AGO\Exerc10_OperadorTexto\obj\Debug\Exerc10_OperadorTexto.exe
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_23AGO\Exercícios_23AGO\Exerc10_OperadorTexto\obj\Debug\Exerc10_OperadorTexto.pdb

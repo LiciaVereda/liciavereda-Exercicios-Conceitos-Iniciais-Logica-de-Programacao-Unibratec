@@ -1,0 +1,7 @@
+C:\Users\Lí\source\repos\Exercícios_29AGO\Exerc28_ConstruçãoCasas\bin\Debug\Exerc28_ConstruçãoCasas.exe.config
+C:\Users\Lí\source\repos\Exercícios_29AGO\Exerc28_ConstruçãoCasas\bin\Debug\Exerc28_ConstruçãoCasas.exe
+C:\Users\Lí\source\repos\Exercícios_29AGO\Exerc28_ConstruçãoCasas\bin\Debug\Exerc28_ConstruçãoCasas.pdb
+C:\Users\Lí\source\repos\Exercícios_29AGO\Exerc28_ConstruçãoCasas\obj\Debug\Exerc28_ConstruçãoCasas.csprojAssemblyReference.cache
+C:\Users\Lí\source\repos\Exercícios_29AGO\Exerc28_ConstruçãoCasas\obj\Debug\Exerc28_ConstruçãoCasas.csproj.CoreCompileInputs.cache
+C:\Users\Lí\source\repos\Exercícios_29AGO\Exerc28_ConstruçãoCasas\obj\Debug\Exerc28_ConstruçãoCasas.exe
+C:\Users\Lí\source\repos\Exercícios_29AGO\Exerc28_ConstruçãoCasas\obj\Debug\Exerc28_ConstruçãoCasas.pdb

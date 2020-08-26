@@ -1,0 +1,7 @@
+C:\Users\Lí\source\repos\Exercícios_29AGO\Exerc26_Votos\bin\Debug\Exerc26_Votos.exe.config
+C:\Users\Lí\source\repos\Exercícios_29AGO\Exerc26_Votos\bin\Debug\Exerc26_Votos.exe
+C:\Users\Lí\source\repos\Exercícios_29AGO\Exerc26_Votos\bin\Debug\Exerc26_Votos.pdb
+C:\Users\Lí\source\repos\Exercícios_29AGO\Exerc26_Votos\obj\Debug\Exerc26_Votos.csprojAssemblyReference.cache
+C:\Users\Lí\source\repos\Exercícios_29AGO\Exerc26_Votos\obj\Debug\Exerc26_Votos.csproj.CoreCompileInputs.cache
+C:\Users\Lí\source\repos\Exercícios_29AGO\Exerc26_Votos\obj\Debug\Exerc26_Votos.exe
+C:\Users\Lí\source\repos\Exercícios_29AGO\Exerc26_Votos\obj\Debug\Exerc26_Votos.pdb

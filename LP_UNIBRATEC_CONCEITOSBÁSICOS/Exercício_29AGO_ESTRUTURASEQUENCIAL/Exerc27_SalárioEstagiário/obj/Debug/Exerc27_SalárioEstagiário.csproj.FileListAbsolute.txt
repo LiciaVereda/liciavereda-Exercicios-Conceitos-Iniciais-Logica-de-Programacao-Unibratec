@@ -1,0 +1,7 @@
+C:\Users\Lí\source\repos\Exercícios_29AGO\Exerc27_SalárioEstagiário\bin\Debug\Exerc27_SalárioEstagiário.exe.config
+C:\Users\Lí\source\repos\Exercícios_29AGO\Exerc27_SalárioEstagiário\bin\Debug\Exerc27_SalárioEstagiário.exe
+C:\Users\Lí\source\repos\Exercícios_29AGO\Exerc27_SalárioEstagiário\bin\Debug\Exerc27_SalárioEstagiário.pdb
+C:\Users\Lí\source\repos\Exercícios_29AGO\Exerc27_SalárioEstagiário\obj\Debug\Exerc27_SalárioEstagiário.csprojAssemblyReference.cache
+C:\Users\Lí\source\repos\Exercícios_29AGO\Exerc27_SalárioEstagiário\obj\Debug\Exerc27_SalárioEstagiário.csproj.CoreCompileInputs.cache
+C:\Users\Lí\source\repos\Exercícios_29AGO\Exerc27_SalárioEstagiário\obj\Debug\Exerc27_SalárioEstagiário.exe
+C:\Users\Lí\source\repos\Exercícios_29AGO\Exerc27_SalárioEstagiário\obj\Debug\Exerc27_SalárioEstagiário.pdb

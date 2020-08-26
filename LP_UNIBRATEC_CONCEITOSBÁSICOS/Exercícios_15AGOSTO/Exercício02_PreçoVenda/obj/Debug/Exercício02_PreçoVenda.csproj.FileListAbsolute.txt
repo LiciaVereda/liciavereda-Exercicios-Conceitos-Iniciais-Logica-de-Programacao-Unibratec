@@ -1,0 +1,6 @@
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\15AGO\Exercícios_15AGO\Exercício02_PreçoVenda\bin\Debug\Exercício02_PreçoVenda.exe.config
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\15AGO\Exercícios_15AGO\Exercício02_PreçoVenda\bin\Debug\Exercício02_PreçoVenda.exe
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\15AGO\Exercícios_15AGO\Exercício02_PreçoVenda\bin\Debug\Exercício02_PreçoVenda.pdb
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\15AGO\Exercícios_15AGO\Exercício02_PreçoVenda\obj\Debug\Exercício02_PreçoVenda.csproj.CoreCompileInputs.cache
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\15AGO\Exercícios_15AGO\Exercício02_PreçoVenda\obj\Debug\Exercício02_PreçoVenda.exe
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\15AGO\Exercícios_15AGO\Exercício02_PreçoVenda\obj\Debug\Exercício02_PreçoVenda.pdb

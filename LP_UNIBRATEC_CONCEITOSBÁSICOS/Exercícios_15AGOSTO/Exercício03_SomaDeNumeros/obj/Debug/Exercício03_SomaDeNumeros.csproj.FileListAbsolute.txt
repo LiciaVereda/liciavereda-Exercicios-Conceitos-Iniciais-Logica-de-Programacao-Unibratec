@@ -1,0 +1,7 @@
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\15AGO\Exercícios_15AGO\Exercício03_SomaDeNumeros\bin\Debug\Exercício03_SomaDeNumeros.exe.config
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\15AGO\Exercícios_15AGO\Exercício03_SomaDeNumeros\bin\Debug\Exercício03_SomaDeNumeros.exe
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\15AGO\Exercícios_15AGO\Exercício03_SomaDeNumeros\bin\Debug\Exercício03_SomaDeNumeros.pdb
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\15AGO\Exercícios_15AGO\Exercício03_SomaDeNumeros\obj\Debug\Exercício03_SomaDeNumeros.csprojAssemblyReference.cache
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\15AGO\Exercícios_15AGO\Exercício03_SomaDeNumeros\obj\Debug\Exercício03_SomaDeNumeros.csproj.CoreCompileInputs.cache
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\15AGO\Exercícios_15AGO\Exercício03_SomaDeNumeros\obj\Debug\Exercício03_SomaDeNumeros.exe
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\15AGO\Exercícios_15AGO\Exercício03_SomaDeNumeros\obj\Debug\Exercício03_SomaDeNumeros.pdb

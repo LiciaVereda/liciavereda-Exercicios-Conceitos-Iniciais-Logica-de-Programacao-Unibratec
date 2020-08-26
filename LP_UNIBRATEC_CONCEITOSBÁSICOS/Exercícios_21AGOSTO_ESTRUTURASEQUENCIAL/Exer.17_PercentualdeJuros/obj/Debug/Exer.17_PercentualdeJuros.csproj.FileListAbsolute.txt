@@ -1,0 +1,7 @@
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_21AGO\Exer.17_PercentualdeJuros\Exer.17_PercentualdeJuros\bin\Debug\Exer.17_PercentualdeJuros.exe.config
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_21AGO\Exer.17_PercentualdeJuros\Exer.17_PercentualdeJuros\bin\Debug\Exer.17_PercentualdeJuros.exe
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_21AGO\Exer.17_PercentualdeJuros\Exer.17_PercentualdeJuros\bin\Debug\Exer.17_PercentualdeJuros.pdb
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_21AGO\Exer.17_PercentualdeJuros\Exer.17_PercentualdeJuros\obj\Debug\Exer.17_PercentualdeJuros.csprojAssemblyReference.cache
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_21AGO\Exer.17_PercentualdeJuros\Exer.17_PercentualdeJuros\obj\Debug\Exer.17_PercentualdeJuros.csproj.CoreCompileInputs.cache
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_21AGO\Exer.17_PercentualdeJuros\Exer.17_PercentualdeJuros\obj\Debug\Exer.17_PercentualdeJuros.exe
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_21AGO\Exer.17_PercentualdeJuros\Exer.17_PercentualdeJuros\obj\Debug\Exer.17_PercentualdeJuros.pdb

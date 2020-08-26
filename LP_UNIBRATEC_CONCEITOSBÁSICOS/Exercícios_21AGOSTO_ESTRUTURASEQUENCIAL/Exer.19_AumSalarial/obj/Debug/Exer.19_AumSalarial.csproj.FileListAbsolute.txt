@@ -1,0 +1,7 @@
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_21AGO\Exer.17_PercentualdeJuros\Exer.19_AumSalarial\bin\Debug\Exer.19_AumSalarial.exe.config
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_21AGO\Exer.17_PercentualdeJuros\Exer.19_AumSalarial\bin\Debug\Exer.19_AumSalarial.exe
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_21AGO\Exer.17_PercentualdeJuros\Exer.19_AumSalarial\bin\Debug\Exer.19_AumSalarial.pdb
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_21AGO\Exer.17_PercentualdeJuros\Exer.19_AumSalarial\obj\Debug\Exer.19_AumSalarial.csprojAssemblyReference.cache
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_21AGO\Exer.17_PercentualdeJuros\Exer.19_AumSalarial\obj\Debug\Exer.19_AumSalarial.csproj.CoreCompileInputs.cache
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_21AGO\Exer.17_PercentualdeJuros\Exer.19_AumSalarial\obj\Debug\Exer.19_AumSalarial.exe
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_21AGO\Exer.17_PercentualdeJuros\Exer.19_AumSalarial\obj\Debug\Exer.19_AumSalarial.pdb
